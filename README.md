@@ -10,3 +10,5 @@ The GUI was created using PyMieScatt and Kivy.
 ![Image description](Screenshot%20from%202020-02-25%2015-15-21.png)
 
 ![Image description](Screenshot%20from%202020-02-25%2015-18-07.png)
+
+Click here to see the code: https://github.com/Jorge-Salmon/ext_GUI/blob/master/ext_GUI.py
